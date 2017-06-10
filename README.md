@@ -56,6 +56,7 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 - [Learn how to use Regex](http://www.regular-expressions.info/tutorial.html)
 - [Java Regex- Tutorial](http://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
 - [Useful Regexes](https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions)
+- [Javascript.info - Regular expressions](https://javascript.info/regular-expressions) - Regular expressions section in The Modern JavaScript Tutorial
 
 ## Generators
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions for  Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript J# C# C++ and more
