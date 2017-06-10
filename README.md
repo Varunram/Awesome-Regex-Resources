@@ -67,6 +67,7 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 ## Collections
 
 - [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
+- [regexhub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns
 
 ## Libraries
 
