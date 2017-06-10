@@ -23,6 +23,7 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 - [ECMAScript 6](http://2ality.com/2015/07/regexp-es6.html) - New Regexes in ECMAScript 6
 - [regex header in C++](http://www.cplusplus.com/reference/regex/) - `<regex>` in C++
 - [class Pattern in Java](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html) - Java 7 docs
+- [class Regex in Scala](http://www.scala-lang.org/api/2.12.1/scala/util/matching/Regex.html) - Scala Regex
 
 ## Online IDEs for Regexes
 
