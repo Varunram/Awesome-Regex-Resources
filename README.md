@@ -48,12 +48,13 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 - [Wikipedia](http://en.wikipedia.org/wiki/Regular_expression) - Entry on regular expressions
 - [Regular Expressions - Everything you should know](http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1) - PDF Series
 - [A Tao Of Regular Expressions](http://linuxreviews.org/beginner/tao_of_regular_expressions/tao_of_regular_expressions.en.print.pdf) - What are Regular Expressions
+- [The Java Tutorials](https://docs.oracle.com/javase/tutorial/essential/regex/resources.html)
 - [Regex Syntax Summary](http://www.greenend.org.uk/rjk/2002/06/regexp.html)
 - [How Regexes work](http://perl.plover.com/Regex/)
 - [Python Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
+- [Learn Regular Expressions for Beginners](https://hackernoon.com/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
 - [Learn how to use Regex](http://www.regular-expressions.info/tutorial.html)
-- [Try Regex](http://tryregex.com/)
-- [RegexOne](https://regexone.com)
+- [Useful Regexes](https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions)
 
 ## Generators
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions for  Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript J# C# C++ and more
@@ -89,12 +90,17 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 
 ## Articles on Regex
 
+- [RegExp Tree: a regular expressions processor](https://medium.com/@DmitrySoshnikov/regexp-tree-a-regular-expressions-parser-with-a-simple-ast-format-bcd4d5580df6)
 - [The thirty minute regex tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Regular Expressions in 30 Minutes
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Regular Expressions in a post ES6 World](https://ponyfoo.com/articles/regular-expressions-post-es6)
 - [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"?
+- [Regular expression (regex) performance: The fundamental guide](https://medium.com/@lennartkoopmann/regular-expression-regex-performance-the-fundamental-guide-3d39e6af33af)
 - [5 Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/)
 - [Demystifying The Regular Expression That Checks If A Number Is Prime](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/) - How a regular expression can check if a number is prime
+- [The New ‘Absent Operator’ in Ruby’s Regular Expressions](https://medium.com/rubyinside/the-new-absent-operator-in-ruby-s-regular-expressions-7c3ef6cd0b99)
+- [Optimizing regexes in Java](http://www.javaworld.com/article/2077757/core-java/optimizing-regular-expressions-in-java.html)
+- [Use RegEx to Test Password Strength in JavaScript](https://dzone.com/articles/use-regex-test-password)
 - [Java 101](http://www.javaworld.com/article/3188545/learn-java/java-101-regular-expressions-in-java-part-1.html) - Regular Expressions in Java
 - [Treat regular expressions as code, not magic](http://alexwlchan.net/2016/04/regexes-are-code/) - If you don’t write them carefully, you can end up with an unmaintainable monstrosity
 - [Most Crazy Regexes](https://stackoverflow.com/questions/800813/what-is-the-most-difficult-challenging-regular-expression-you-have-ever-written) - Stack Overflow
@@ -117,4 +123,4 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 
 # Contributing
 
-PRs of all kinds welcome, feel free to pitch in with awesomeness :cool:
+PRs of all kinds welcome, feel free to pitch in with awesomeness
