@@ -54,6 +54,7 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 - [Python Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
 - [Learn Regular Expressions for Beginners](https://hackernoon.com/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
 - [Learn how to use Regex](http://www.regular-expressions.info/tutorial.html)
+- [Java Regex- Tutorial](http://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
 - [Useful Regexes](https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions)
 
 ## Generators
@@ -107,7 +108,7 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 - [Regex Humor](http://www.rexegg.com/regex-humor.html) - Regex jokes and cartoons
 - [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
 
-## Books
+## Books and Cheat Sheets
 
 - [JavaScript Regular Expressions](http://shop.oreilly.com/product/9781783282258.do)
 - [Regex - the complete tutorial](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
@@ -117,7 +118,11 @@ A curated list of Awesome Regex Resources. Inspired by other `awesome` stuff
 - [Teach Yourself Regular Expressions](http://rads.stackoverflow.com/amzn/click/0672325667)
 - [Regular Expressions Cheat Sheet](http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
 - [Regular Expressions Cookbook](http://shop.oreilly.com/product/0636920023630.do)
+- [Regex Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
+- [MIT Cheat Sheet](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
 - [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
+- [Java Cheat Sheet](https://zeroturnaround.com/rebellabs/java-regular-expressions-cheat-sheet/)
+- [JavaScript Cheat Sheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do)
 - [Mastering Python Regular Expressions](http://shop.oreilly.com/product/9781783283156.do)
 
