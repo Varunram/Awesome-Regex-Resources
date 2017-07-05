@@ -94,6 +94,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Javascript.info - Regular expressions][d19] - Regular expressions section in The Modern JavaScript Tutorial
 - [Useful Regexes][d20]
 - [Teach Yourself Regular Expressions][d21]
+- [Breaking the ice with Regular Expressions][d22] - CodeSchool course (first module is free).
 
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
@@ -117,6 +118,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d19]: https://javascript.info/regular-expressions
 [d20]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
 [d21]: http://rads.stackoverflow.com/amzn/click/0672325667
+[d22]: https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
 
 ## Library
 
