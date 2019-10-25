@@ -85,7 +85,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex golf][d10] - Regex golf with Peter Norvig
 - [Python Regular Expressions][d11] - A good introduction to Python Regular Expressions from Google
 - [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions.
-- [Regular Expressions - Everything you should know][d13] - PDF Series
+- [Regular Expressions - Everything you should know](http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1) - PDF Series
 - [The Java Tutorials][d14]
 - [Regex Syntax Summary][d15]
 - [How Regexes work][d16]
@@ -95,7 +95,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Useful Regexes][d20]
 - [Teach Yourself Regular Expressions][d21]
 - [Breaking the ice with Regular Expressions][d22] - CodeSchool course (first module is free).
-
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
 [d2]: http://regex.learncodethehardway.org/book/
@@ -109,7 +108,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d10]: https://www.oreilly.com/learning/regex-golf-with-peter-norvig
 [d11]: https://developers.google.com/edu/python/regular-expressions
 [d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d13]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1)
 [d14]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
 [d15]: http://www.greenend.org.uk/rjk/2002/06/regexp.html
 [d16]: http://perl.plover.com/Regex/
